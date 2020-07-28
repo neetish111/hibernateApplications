@@ -21,7 +21,7 @@ public class SaveObjectTest {
 		factory=cfg.buildSessionFactory();
 		ses=factory.openSession();
 		emp=new Employee17();
-		emp.setEid(1001);
+		emp.setEid(1071);
 		emp.setFirstname("Neetish");
 		emp.setLastname("Maurya");
 		emp.setEmail("neetishmaurya111");
